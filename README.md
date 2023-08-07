@@ -102,12 +102,12 @@ L'application Billed dispose de deux types de comptes :
 
 #### Administrateur
 
-- Utilisateur : admin@test.tld
-- Mot de passe : admin
+- Utilisateur : ```admin@test.tld```
+- Mot de passe : ```admin```
 
 #### Employé
 
-- Utilisateur : employee@test.tld
-- Mot de passe : employee
+- Utilisateur : ```employee@test.tld```
+- Mot de passe : ```employee```
 
 Ces comptes permettent de tester différentes fonctionnalités de l'application en tant qu'administrateur ou employé.
