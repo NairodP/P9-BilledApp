@@ -22,7 +22,7 @@ const rows = (data) => {
   // Vérification si 'data' existe (n'est pas null ou undefined)
   if (data) {
     // Si 'data' existe, tri des éléments du tableau en utilisant une fonction de comparaison
-    data.sort(function (a, b) {
+    data.sort((a, b) => {
       // Conversion des dates 'a.date' et 'b.date' en objets Date pour pouvoir les comparer
       let dateA = new Date(a.date);
       let dateB = new Date(b.date);

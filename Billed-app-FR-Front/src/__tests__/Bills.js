@@ -15,9 +15,12 @@ import router from "../app/Router.js";
 jest.mock("../app/store", () => mockStore);
 
 describe("Given I am connected as an employee", () => {
+  // Given (étant donné que ...)
   describe("When I am on Bills Page", () => {
+    // When (Quand...)
     // Vérifie que l'icône de fenêtre est mise en évidence pour l'employé connecté
     test("Then bill icon in vertical layout should be highlighted", async () => {
+      // Then (Alors...)
       Object.defineProperty(window, "localStorage", {
         value: localStorageMock,
       });

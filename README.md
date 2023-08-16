@@ -22,7 +22,7 @@ Tout d'abord il vous faut cloner ce repository. Pour cela vous pouvez créer un 
 
 ### Étape 1 - Lancer le backend
 
-##### Tout d'abord il vous faut utliser une version de node compatible
+**Tout d'abord il vous faut utliser une version de node compatible**
 Si vous utilisez une version récente de node sur votre ordinateur, il se peut qu'il y ai des erreurs lors de l'installation de certaines dépendances. Pour cela il est important de vous assurer que vous ayez une version de node compatible par exemple node v16 ou v18. 
 
 Voici quelques indications pour gérer les version de node sur votre ordinateur: 

@@ -40,7 +40,7 @@ export default class NewBill {
       errorMessage.setAttribute("data-testid", "newbill-file-error-message");
       errorMessage.style.color = "red";
       errorMessage.innerHTML =
-        "Seuls les fichiers jpg, jpeg ou png sont acceptés.";
+        "Merci d'insérer uniquement un fichier au format jpg, jpeg ou png.";
       errorMessage.classList.add("error-message");
       fileInput.insertAdjacentElement("afterend", errorMessage);
       fileInput.value = "";
