@@ -16,13 +16,14 @@ Le projet frontend est la partie de l'application visible par les utilisateurs. 
 
 ## Comment utiliser l'application en local ?
 
-Tout d'abord il vous faut cloner ce repository. Pour cela vous pouvez créer un dossier "bill-app" par exemple et y cloner le projet : [Billed-app] (https://github.com/NairodP/P9-Billed.git)
+Il vous faut dans un premier temps cloner ce repository. Pour cela vous pouvez créer un dossier "bill-app" par exemple et y cloner le projet : [Billed-app] (https://github.com/NairodP/P9-Billed.git)
 
 ## Comment lancer l'application en local ?
 
 ### Étape 1 - Lancer le backend
 
-**Tout d'abord il vous faut utliser une version de node compatible**
+**Utliser une version de node compatible.**
+
 Si vous utilisez une version récente de node sur votre ordinateur, il se peut qu'il y ai des erreurs lors de l'installation de certaines dépendances. Pour cela il est important de vous assurer que vous ayez une version de node compatible par exemple node v16 ou v18. 
 
 Voici quelques indications pour gérer les version de node sur votre ordinateur: 
